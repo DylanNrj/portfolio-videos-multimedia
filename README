@@ -1,0 +1,34 @@
+# 🎬 Multimedia Portfolio Assets
+
+Repositorio de almacenamiento de recursos audiovisuales utilizados en el desarrollo de un portafolio web interactivo para la asignatura **Creación y Productos Multimedia**.
+
+## 📌 Descripción
+
+Este repositorio contiene los archivos de video en formato `.mp4` empleados dentro de un proyecto web realizado en **Framer**.  
+Su función principal es alojar los recursos multimedia de forma externa para optimizar el rendimiento del sitio y evitar el consumo del almacenamiento interno de la plataforma.
+
+## 🎯 Objetivo
+
+Centralizar y gestionar los videos del proyecto para:
+
+- facilitar su organización
+- permitir su uso mediante URL directa
+- optimizar la integración en entornos web
+- mejorar la carga y el rendimiento del portafolio
+
+## 🧩 Tecnologías utilizadas
+
+- **GitHub** — almacenamiento y control del repositorio
+- **jsDelivr CDN** — distribución de archivos multimedia mediante URL pública
+- **Framer** — integración de videos dentro del proyecto web
+
+## 📁 Estructura del repositorio
+
+```bash
+/
+├── videos/
+│   ├── showreel.mp4
+│   ├── project-01.mp4
+│   ├── project-02.mp4
+│   └── project-03.mp4
+└── README.md
